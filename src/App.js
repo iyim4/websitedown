@@ -1,9 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
+import WebsiteStatusChecker from './components/Checker.js'
 
 function App() {
   return (
     <div className="App">
+      <h1> HELLO WORLD! </h1>
+
+      <WebsiteStatusChecker />
 
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
