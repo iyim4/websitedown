@@ -7,6 +7,8 @@ function App() {
     <div className="App">
       <h1> HELLO WORLD! </h1>
 
+      <h2> testing 2 </h2>
+
       <WebsiteStatusChecker />
 
       <header className="App-header">
