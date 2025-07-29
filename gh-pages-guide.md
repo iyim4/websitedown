@@ -1,6 +1,6 @@
-# GitHub Pages guide 
+# GitHub Pages Guide 
 
-from the [create react app guide](https://create-react-app.dev/docs/deployment/#github-pages)
+From the [create react app guide](https://create-react-app.dev/docs/deployment/#github-pages).
 
 ## Step 1: Add homepage to `package.json`
 in `package.json`
